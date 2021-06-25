@@ -1,2 +1,0 @@
-# pychat
-School Project
